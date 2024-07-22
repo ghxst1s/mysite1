@@ -1,5 +1,26 @@
-body{
-    background-color: rgb(27, 94, 21);
-    color: white;
+body {
+
     font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.sigma1{
+    margin-left: 230px;
+}
+
+.sigma{
+    background-color: rgb(48, 48, 48);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 15%;
+    width: 60%;
+    font-size: 15px;
+}
+.trigma{
+    border-color: red;
+    border-style: dotted;
+    border-width: 4px;
+    border-radius: 15px;
+    
 }
